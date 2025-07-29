@@ -69,4 +69,4 @@ El archivo contiene un dashboard principal con varios componentes clave:
 
 **Pedro Gil Olivares**  
 Graduado en Dirección de Empresas y Marketing · Trainee Data Analyst  
-[LinkedIn] https://www.linkedin.com/in/pedro-gil-olivares-485517216/
+LinkedIn -> https://www.linkedin.com/in/pedro-gil-olivares-485517216/
